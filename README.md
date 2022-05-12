@@ -1,0 +1,2 @@
+- Recommended workspace: Eclipse IDE
+- 1th part: https://github.com/frknltrk/eight-queens-problem
